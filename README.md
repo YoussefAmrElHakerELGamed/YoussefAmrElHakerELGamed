@@ -22,10 +22,10 @@ Whether it's building a survival horror FPS, designing RPG systems, or integrati
 ## 🕹️ Projects Showcase
 
 ### 🧟 Infected *(Survival Horror FPS)*
-> A dark, intense first-person shooter where survival is everything. You're trapped in an abandoned hospital crawling with infected mutants. Ammo is scarce. Every corner could be your last.
+> A dark, intense 2D tower defense shooter where survival is everything. You're trapped in an infected computer filled with virus. Ammo is scarce. Every second could be your last.
 
 - Built in **Unity**
-- FPS survival gameplay with wave-based infected enemies
+- tower defense survival gameplay with wave-based infected enemies
 - Atmospheric lighting and SFX for high tension
 - Score tracking, kill count, and health pickups
 - Download: 👉 [Play on itch.io](https://orpita-studios.itch.io/infected)

@@ -1,4 +1,4 @@
-# 🎮 Youssef Amr – Game Developer | Software Engineer | Data Scientist
+# 🎮 Youssef Amr (he/him) – Game Developer | Software Engineer | Data Scientist
 
 Welcome! I'm **Youssef Amr**, a passionate **game developer** with a deep enthusiasm for creating immersive digital worlds, writing smart gameplay logic, and solving real-world problems with code.
 
